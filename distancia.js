@@ -1,4 +1,5 @@
 // Calcular distancia entre dos puntos:
+
 const p1 = {
 	x: 0,
 	y: 4,
