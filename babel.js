@@ -1,0 +1,3 @@
+// Es una herramienta que nos brinda la comunidad, para hacer compatible codigo JS con verisones anteriores
+//https://babeljs.io/repl/#?babili=false&browsers=&build=&builtIns=false&circleciRepo=&code_lz=NoRgNATGAsC6B0AzA9gJwKIEMDGALAFPgHYCuAtgEYCmqAlAAQC8AfPdskQM7IA2V8PZAHNi5anVpA&debug=false&evaluate=false&lineWrap=true&presets=es2015%2Creact%2Cstage-2&prettier=false&showSidebar=true&targets=&version=6.26.0
+// http://bit.ly/2gJSJGD
